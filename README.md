@@ -1,5 +1,9 @@
 visorLCD
 ========
+Autor: José Miguel Jiménez Villanueva
+www.calentadorsolarpasoapaso.blogspot.com
+
+Más detalles en entrada: http://www.calentadorsolarpasoapaso.blogspot.com.es/2014/06/nuevo-medidor-de-excedente-al-proyecto.html
 
 Visor LCD con Reloj Incorporado
 
@@ -13,3 +17,4 @@ Los componentes necesarios son:
 - Modulo Digital de reloj RTC I2C Tiny
 - Arduino Uno
 - Pantalla LCD 16x2
+
